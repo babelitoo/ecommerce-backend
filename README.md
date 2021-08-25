@@ -24,8 +24,8 @@ Use mysql -u root -p to source db schema,
 exit and run npm run seed in the root of file,
 npm start to initialize localhost
 
-## Video Walkthrough
-https://drive.google.com/file/d/1YMsg3AcGRs6y_PP6o8NxM99wbgcxXjFb/view?usp=sharing
+## Video
+https://drive.google.com/file/d/1m4BHnEhnpYbkbFDzapy3qWL5s4w9PoA9/view?usp=sharing
 
 ## License
 
